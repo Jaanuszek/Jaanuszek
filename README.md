@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🥸 I'm a software engineer and an MS in Computer Science and Intelligent Systems student at AGH University of Science and Technology in Cracow.<br>💻 Low-level programming languages as well as graphics programming are my interests.<br>🎓 I graduated from AGH University of Science and Technology in Cracow with an engineering degree, defending a thesis that you can find [here](https://github.com/Jaanuszek/Game_Engine_OpenGl).<br>🛜 I am currently learning Vulkan to complement my graphics programming technology stack. After that, I plan to expand my skills in web programming and related security topics, and I would like to learn the basics of web development.<br>🏋️‍♂️In my free time, I do a lot of sports and play the guitar (both electric and acoustic)</p>
+<p align="left">🥸 I'm a software engineer and an MS in Computer Science and Intelligent Systems student at AGH University of Science and Technology in Cracow.<br>💻 Low-level programming languages, as well as graphics programming, are my interests.<br>🎓 I graduated from AGH University of Science and Technology in Cracow as an electronics and telecommunications engineer. <br>🛜 I am currently learning Vulkan to complement my graphics programming technology stack. After that, I plan to expand my skills in web programming and related security topics, and I would like to learn the basics of web development.<br>🏋️‍♂️In my free time, I do a lot of sports and play the guitar (both electric and acoustic)</p>
 
 ###
 
